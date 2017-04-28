@@ -16,7 +16,7 @@ public class DemoApplicationTests {
 	//	assertEquals(true,false);
 	}
 	@Test
-	public void contextLoads() {
+	public void erreur() {
 		assertEquals(true,false);
 	}
 
